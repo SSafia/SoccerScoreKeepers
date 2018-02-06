@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textsize_team">38sp</dimen>
+    <dimen name="marginTop1">100dp</dimen>
+    <dimen name="marginTop">48dp</dimen>
+</resources>

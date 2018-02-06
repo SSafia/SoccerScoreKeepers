@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SoccerScoreKeepers</string>
+    <string name="team_A">A</string>
+    <string name="scoreTeamA">0</string>
+    <string name="plus1">+1 points</string>
+    <string name="plus3">+3 points</string>
+    <string name="minus1">foul</string>
+    <string name="team_B">B</string>
+    <string name="scoreTeamB">0</string>
+    <string name="resetButton">reset</string>
+</resources>
